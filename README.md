@@ -2,7 +2,7 @@
 
 sprystore is hosted on azure  you can visit this from below link
 
- live Azure link : https://white-pond-0d84ebe10.1.azurestaticapps.net/
+ live Azure webapp link : https://storewe.azurewebsites.net/
 
 
 
